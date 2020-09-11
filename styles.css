@@ -10,11 +10,13 @@ body {
 header{
 color: black;
 text-align: center;
+font-family: cursive;
 }
 
 nav{
 text-align: center;
 margin: 4rem;
+font-family: cursive;
 }
 a{
 	text-decoration: none;
@@ -44,4 +46,6 @@ p{
 	font-size: 1.5rem;
 	width: 40%;
 	text-align: center;
+	margin: auto;
+	font-family: cursive;
 }
