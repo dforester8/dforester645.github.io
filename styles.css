@@ -8,20 +8,22 @@ body {
 }	
 
 header{
-color: black;
+color: white;
 text-align: center;
 font-family: cursive;
+text-transform: uppercase;
 }
 
 nav{
 text-align: center;
+font-size: 20px;
 margin: 4rem;
 font-family: cursive;
 }
 a{
 	text-decoration: none;
 	margin: 0 2rem;
-	color: darkblue;
+	color: white;
 	
 }
 
@@ -45,7 +47,14 @@ footer{
 p{
 	font-size: 1.5rem;
 	width: 40%;
-	text-align: center;
-	margin: auto;
+	margin-left: 850px;
 	font-family: cursive;
+	color: yellow;
+}
+body{
+	background-image: url("GaTech.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+
 }
